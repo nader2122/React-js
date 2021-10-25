@@ -1,0 +1,34 @@
+#body{
+  height: 550px;
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.forms{
+  
+  font-size: large;
+  max-width: 500px;
+  margin: 50px auto;
+  justify-content: center;
+  position: relative;
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+
+
+.foot{
+  position: absolute;
+  bottom: 0;
+  top: 600px;
+  width: 100%;
+  background-color: white;
+  color: black;
+  
+}
